@@ -1,0 +1,35 @@
+p{color: black;
+text-align: center;}
+h1{color: rgb(233, 14, 14);}
+h2{color: darksalmon;
+text-align: center;}
+ul{background: indianred
+    padding-box ;}
+    ul{text-align: center;}
+    a{color: slategray;} 
+
+nav{list-style-type: none
+    ;margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+   background-color: indianred;}
+a{
+color: teal;
+text-align: center;
+text-decoration: none;}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    }
+td, th{
+    text-align: left;
+    padding: 8px;
+}
+
+th{
+    background-color: #060706;
+    color: white;
+
+}
+td{background-color: whitesmoke;}
+body{background-image:url(../res/images.jpg);}
